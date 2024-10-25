@@ -16,8 +16,7 @@ import { okaidia } from '@uiw/codemirror-theme-okaidia'
 // npm i @codemirror/lang-cpp @codemirror/lang-java @codemirror/lang-javascript @codemirror/lang-python
 
 // language
-import { cpp } from '@codemirror/lang-cpp'
-import { java } from '@codemirror/lang-java'
+
 import { javascript } from '@codemirror/lang-javascript'
 import { python } from '@codemirror/lang-python'
 
@@ -36,8 +35,7 @@ const CodeEditor = ({
     const [language, setLanguage] = useState(javascript);
 
     useEffect(() => {
-        if (currentLanguage === 'cpp') setLanguage(cpp);
-        if (currentLanguage === 'java') setLanguage(java);
+        
         if (currentLanguage === 'javascript') setLanguage(javascript);
         if (currentLanguage === 'python') setLanguage(python);
     }, [currentLanguage])
