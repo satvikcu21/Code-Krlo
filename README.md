@@ -10,7 +10,7 @@
 2. Create a Code Editor Frontend using ReactJS (CodeMirror package)
 3. Implemented flexible layout structure using styled components
 4. Use Rapid API to setup our Judge0 API
-5. Add multi-language support (cpp, python, java, javascript)
+5. Add multi-language support (python, javascript)
 6. Add multi-theme support
 7. Upload and Download Code
 8. Input and Output console(can upload text files for input & download output)
