@@ -49,6 +49,7 @@ const NewPlayground = () => {
 
   const handleLanguageChange = (selectedOption) => {
     setLanguage(selectedOption);
+    
   };
 
   return (
