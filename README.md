@@ -1,4 +1,4 @@
-# Code Deck | An Online IDE
+# Code-Krlo | An Online IDE
 
 ## Demo
 
