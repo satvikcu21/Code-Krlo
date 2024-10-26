@@ -1,8 +1,7 @@
 # Code-Krlo | An Online IDE
 
 ## Demo
-
-[<img src="/src/assets/Front.png" alt="Home Page"/>]
+<img src="/src/assets/Front.png" alt="Home Page"/>
 
 ## Project Objective
 
